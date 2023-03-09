@@ -37,6 +37,3 @@ Para ejecutar el proyecto, debes seguir los siguientes pasos:
 
 ### Conclusiones
 En resumen, este proyecto de login de usuario creado con React Js, Scss y Firebase es una excelente manera de aprender cómo utilizar Firebase Authentication y Firestore para crear una autenticación de usuario completa en una aplicación web. Además, este proyecto es fácilmente escalable y se pueden agregar más funcionalidades para personalizar la experiencia del usuario.
-
-# login-react-firebase
-# login-react-firebase
