@@ -1,0 +1,27 @@
+.login-container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-google{
+    font-size: 1.5rem;
+    padding: 1rem 6rem;
+    border: none;
+    background-color: rgb(175, 182, 196);
+    color: white;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    transition: all 0.2s ease-in-out;
+}
+
+.button-google:hover{
+    background-color: cornflowerblue;
+    cursor: pointer;
+}
+
